@@ -1,0 +1,25 @@
+h1{
+font-family: "Inter", sans-serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: yellow;
+}
+
+p:hover{
+    color: rgb(150, 245, 26);
+}
+
+h3{
+    color: rgb(62, 112, 4);
+}
+
+.Sfondo{
+    width: 300px;
+    height: 200px;
+    background-image: url('https://bebeez.it/wp-content/uploads/2020/06/aulab.png');
+    background-size: cover;
+    border: solid 2px;
+    border-radius: 5px;
+}
